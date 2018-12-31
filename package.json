@@ -1,0 +1,23 @@
+{
+  "name": "sssst",
+  "version": "1.0.0",
+  "description": "Shamir's secret sharing scheme tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themand/sssst.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/themand/sssst/issues"
+  },
+  "homepage": "https://github.com/themand/sssst#readme",
+  "dependencies": {
+    "qrcode-terminal": "git+https://github.com/themand/qrcode-terminal.git",
+    "secrets.js-grempe": "git+https://github.com/themand/secrets.js.git"
+  }
+}
